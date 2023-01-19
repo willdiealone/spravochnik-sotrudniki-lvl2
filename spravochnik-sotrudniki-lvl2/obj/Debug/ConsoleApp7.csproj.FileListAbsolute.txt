@@ -1,0 +1,17 @@
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/bin/Debug/ConsoleApp7.exe.config
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/bin/Debug/ConsoleApp7.exe
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/bin/Debug/ConsoleApp7.pdb
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/obj/Debug/ConsoleApp7.csproj.AssemblyReference.cache
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/obj/Debug/ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/obj/Debug/ConsoleApp7.csproj.CoreCompileInputs.cache
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/obj/Debug/ConsoleApp7.exe
+C:/Users/HYPERPC/source/repos/ConsoleApp7/ConsoleApp7/obj/Debug/ConsoleApp7.pdb
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/bin/Debug/ConsoleApp7.exe.config
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/bin/Debug/ConsoleApp7.exe
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/bin/Debug/ConsoleApp7.pdb
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/bin/Debug/System.IO.dll
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/obj/Debug/ConsoleApp7.csproj.AssemblyReference.cache
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/obj/Debug/ConsoleApp7.csproj.CoreCompileInputs.cache
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/obj/Debug/ConsoleApp7.csproj.CopyComplete
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/obj/Debug/ConsoleApp7.exe
+/Users/lilrockstar/Desktop/C#/модуль_7_дз/ConsoleApp7/obj/Debug/ConsoleApp7.pdb
